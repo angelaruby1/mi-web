@@ -98,4 +98,22 @@ footer {
     font-size: 16px;
 }
 
+.contenedor-video {
+    width: 300px;
+    margin: 100px auto 20px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    background-color: #fff;
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+}
+ 
+video {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
 
